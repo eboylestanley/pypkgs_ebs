@@ -7,7 +7,7 @@ Python package that eases the pain of concatenating Pandas categoricals!
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ pypkgs_ebs
+$ pip install -i https://test.pypi.org/simple/ pypkgs-ebs
 ```
 
 ## Features
@@ -24,7 +24,7 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_ebs
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://pypkgs_ebs.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://pypkgs-ebs.readthedocs.io/en/latest/
 
 ## Contributors
 
